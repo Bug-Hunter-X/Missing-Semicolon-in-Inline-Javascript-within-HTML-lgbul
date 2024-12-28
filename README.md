@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: forgetting semicolons in inline Javascript. The bug.html file contains the erroneous code, while bugSolution.html provides the corrected version.  The issue highlights the importance of proper Javascript syntax even within HTML contexts.
